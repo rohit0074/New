@@ -22,7 +22,7 @@ testStr = '''[{
 
 js_data = json.loads(testStr)
 
-eachRequest = dict;
+eachRequest = {};
 
 
 # Add keys to extract from JSON Object in order to create request string
